@@ -1,0 +1,13 @@
+/* Estilos para el footer */
+
+footer {
+    background-color: #333; /* Color de fondo del footer */
+    color: #fff; /* Color del texto */
+    padding: 20px; /* Espaciado interno */
+    text-align: center; /* Alineación del texto */
+    position: fixed; /* Fijar el footer en la parte inferior de la pantalla */
+    left: 0; /* Alinear a la izquierda */
+    bottom: 0; /* Pegado al borde inferior */
+    width: 100%; /* Ancho completo */
+  }
+  
